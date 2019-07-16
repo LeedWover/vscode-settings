@@ -25,7 +25,78 @@
 # Settings
 
 ```json
-
+{
+    "editor.tabSize": 2,
+    "editor.fontSize": 20,
+    "editor.fontFamily": "Anonymous Pro",
+    "terminal.integrated.fontSize": 22,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#b96b05",
+        "list.activeSelectionForeground": "#C6FF00",
+        "list.inactiveSelectionForeground": "#C6FF00",
+        "list.highlightForeground": "#C6FF00",
+        "scrollbarSlider.activeBackground": "#C6FF0050",
+        "editorSuggestWidget.highlightForeground": "#C6FF00",
+        "textLink.foreground": "#C6FF00",
+        "progressBar.background": "#C6FF00",
+        "pickerGroup.foreground": "#C6FF00",
+        "tab.activeBorder": "#0084ff",
+        "notificationLink.foreground": "#C6FF00",
+        "editorWidget.resizeBorder": "#C6FF00",
+        "editorWidget.border": "#C6FF00",
+        "settings.modifiedItemIndicator": "#C6FF00",
+        "settings.headerForeground": "#C6FF00",
+        "panelTitle.activeBorder": "#C6FF00",
+        "breadcrumb.activeSelectionForeground": "#C6FF00",
+        "menu.selectionForeground": "#C6FF00",
+        "menubar.selectionForeground": "#C6FF00",
+        "editor.findMatchBorder": "#C6FF00",
+        "selection.background": "#C6FF0040"
+    },
+    "editor.tokenColorCustomizations": {
+    },
+    "materialTheme.accent": "Acid Lime",
+    "prettier.eslintIntegration": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html"
+    },
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Seti Monokai",
+    "workbench.iconTheme": "vscode-icons",
+    "auto-rename-tag.activationOnLanguage": [
+        "html",
+        "xml",
+        "php",
+        "javascript"
+    ],
+    "eslint.validate": [
+        {
+            "language": "vue",
+            "autoFix": true
+        },
+        {
+            "language": "html",
+            "autoFix": true
+        },
+        {
+            "language": "javascript",
+            "autoFix": true
+        }
+    ]
+}
 ```
 
 # Keywords
