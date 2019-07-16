@@ -43,7 +43,7 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "workbench.colorCustomizations": {
-        "activityBarBadge.background": "#b96b05",
+        "activityBarBadge.background": "#0084ff",
         "list.activeSelectionForeground": "#C6FF00",
         "list.inactiveSelectionForeground": "#C6FF00",
         "list.highlightForeground": "#C6FF00",
