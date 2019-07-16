@@ -103,7 +103,7 @@
 
 * Advanced new file: ctrl + alt + n
 * Showandrun command: ctrl + shift + p
-* Linux code format: ctrl + shift + n
+* Linux code format: ctrl + shift + i
 * Linux comment out: ctrl + shift + 6
 * Linux duplicate code: ctrl + shift + alt + up, down
 
