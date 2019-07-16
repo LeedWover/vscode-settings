@@ -105,6 +105,7 @@
 * Showandrun command: ctrl + shift + p
 * Linux code format: ctrl + shift + n
 * Linux comment out: ctrl + shift + 6
+* Linux duplicate code: ctrl + shift + alt + up, down
 
 # Showandrun Commands 
   -ctrl + shift + p
