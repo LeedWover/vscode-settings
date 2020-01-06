@@ -69,6 +69,8 @@
     },
     "materialTheme.accent": "Acid Lime",
     "prettier.eslintIntegration": true,
+    "prettier.singleQuote": true,
+    "prettier.semi": true,
     "emmet.includeLanguages": {
         "javascript": "javascriptreact",
         "vue-html": "html"
